@@ -1,8 +1,17 @@
-h1{color:darkslategrey}
-body {background-color:rgba(146, 211, 160, 0.616)}
+h1{color:green}
+body {background-color:rgba(141, 206, 155, 0.616)}
 body {margin-top: 65px}  
-body {margin-left: 750px}
+body {margin-left: 600px}
 a:visited { color:rgb(145, 0, 189); text-decoration:none; }
-a:hover { color:rgb(255, 255, 255);}
-
-
+a:hover { color:rgb(38, 155, 96);}
+table, th, td {
+    text-align: center;
+    border-collapse: collapse;
+    padding: 20px;
+    border-color: rgba(141, 206, 155, 0.616);
+    background-color: rgb(157, 209, 157);
+    border: 2px solid #73AD21;
+}
+body {
+    font-family: Helvetica, sans-serif;
+  }
